@@ -1,5 +1,5 @@
-<img src="https://github.com/user-attachments/assets/6ad87ead-7f96-4281-ba0b-53c9e359cbf1" width="720" height="430"> 
-<img src="https://github.com/user-attachments/assets/6ad87ead-7f96-4281-ba0b-53c9e359cbf1" width="720" height="430"> 
+<img src="https://github.com/user-attachments/assets/6ad87ead-7f96-4281-ba0b-53c9e359cbf1" width="540" height="250"> 
+<img src="https://github.com/user-attachments/assets/6ad87ead-7f96-4281-ba0b-53c9e359cbf1" width="540" height="250"> 
 
 
 
@@ -28,4 +28,4 @@ BEST AI FOR TRADING SIGNALS | POCKET OPTION BOT 2024 | BINARY INDICATOR WITH NO 
 
 🏆 FIRST LEGIT SIGNAL ROBOT
 
-Contact : 
+Contact : https://t.me/codepyx
